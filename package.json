@@ -27,6 +27,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "array-shuffle": "^3.0.0",
     "chance": "^1.1.8"
   }
 }
