@@ -32,3 +32,12 @@ body {
   border-radius: 4px;
   box-shadow: 0 4px 16px #0002;
 }
+
+.answers {
+  display: grid;
+  grid-template-columns: auto;
+  gap: 7px;
+}
+
+.button--active {
+}
